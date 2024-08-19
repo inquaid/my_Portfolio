@@ -28,7 +28,7 @@ To explore or to make a same portfolio for your own, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/inquaid/portfolio.git
    ```
 2. Navigate to the project directory:
    ```bash
